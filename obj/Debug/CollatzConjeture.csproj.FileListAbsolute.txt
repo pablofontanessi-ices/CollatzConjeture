@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\VS prueba\CollatzConjeture\CollatzConjeture\bin\Debug\CollatzConjeture.exe.config
+C:\Users\Usuario\Desktop\VS prueba\CollatzConjeture\CollatzConjeture\bin\Debug\CollatzConjeture.exe
+C:\Users\Usuario\Desktop\VS prueba\CollatzConjeture\CollatzConjeture\bin\Debug\CollatzConjeture.pdb
+C:\Users\Usuario\Desktop\VS prueba\CollatzConjeture\CollatzConjeture\obj\Debug\CollatzConjeture.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VS prueba\CollatzConjeture\CollatzConjeture\obj\Debug\CollatzConjeture.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VS prueba\CollatzConjeture\CollatzConjeture\obj\Debug\CollatzConjeture.exe
+C:\Users\Usuario\Desktop\VS prueba\CollatzConjeture\CollatzConjeture\obj\Debug\CollatzConjeture.pdb
